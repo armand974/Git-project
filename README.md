@@ -12,7 +12,6 @@ Votre mission si vous l'accepter :
 * ajouter le remote au repo originel
 * cree une branche  `votre_prenom_mission_git`
 * faire une PR `(PullRequest)` sur le repo `Mission Git`
-* La PR doit être disponible au plus tard jeudi 18/05 à 8h00.
 > May the force be with you
 
 PS : google est votre ami.
